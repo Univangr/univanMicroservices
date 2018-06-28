@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 08_OAuth
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Selenium
+Implementation-Vendor-Id: com.oauth.spring
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/08_OAuth/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
